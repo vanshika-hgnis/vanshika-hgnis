@@ -13,7 +13,7 @@ _Connect With Me_
 ## Languages and Tools ##
  - [x] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/css-3.png" width="30" height="30" >
  - [x] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/html.png" width="30" height="30" >
- - [x] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/js.png.png" width="30" height="30" >
+ - [x] <img src="[https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/js.png.png](https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/js.png)" width="30" height="30" >
  - [X] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/python.png" width="30" height="30" >
  - [x] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/django.png" width="30" height="30" >
  - [x] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database.png" width="30" height="30" >
