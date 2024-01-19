@@ -7,15 +7,10 @@ I'm an undergraduate student at Vellore Institute of Technology and a 20-year-ol
 🥅 Future Goals: Learn more about web 3.0 + Creating APIs
 
 Connect With Me
-<a href="URL_REDIRECT" target="https://www.linkedin.com/in/vanshika-singh-2680b0267/">![alt text](https://imgs.search.brave.com/4BKKsqrLs4ZdjCVGWPhFPMM31LYvry3xlp5Ri2brNCA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTc0LzE3NDg1/Ny5wbmc)
+<a href="URL_REDIRECT" target="https://www.linkedin.com/in/vanshika-singh-2680b0267/">
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
 </a>
 
 # Languages and Tools
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/73286c70-0170-4c8d-9130-4819e67a3aac)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/f4b572cb-8c49-42b4-b35d-d481b5bfc93b)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/2e58f979-8607-4da0-8555-15ab7b57a615)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/ed130299-512b-44f8-8070-d7b140b0f4a0)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/b6764a11-d87b-4041-a292-ee958cb46f9b)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/909a59d1-e6b4-4044-8c53-55e7c0303e4d)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/3e751ede-f68e-4dc6-9cf5-dbdd7d6d5969)
-![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/f3b2b690-fefd-48aa-baf4-7ebc166a57ae)
+![image](https://github.com/vanshika-hgnis/vanshika-hgnis/assets/110220449/51bdaddf-9349-4c87-a3bd-22fe1900b27a)
+
