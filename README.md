@@ -24,3 +24,5 @@ _Connect With Me_     <a href="https://www.linkedin.com/in/vanshika-singh-2680b0
 ## Stats and Activiites ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshika-hgnis&show_icons=true&theme=solarized-light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
