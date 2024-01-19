@@ -11,13 +11,9 @@ _Connect With Me_
 </a>
 
 ## Languages and Tools ##
-<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/css-3.png" width="30" height="30" >
- <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/html.png" width="30" height="30" >
- <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/js.png" width="30" height="30">
- <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/python.png" width="30" height="30" >
- <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/django.png" width="30" height="30" >
- <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database.png" width="30" height="30" >
- <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database-storage.png" width="30" height="30" >
+<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/css-3.png" width="30" height="30" >   <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/html.png" width="30" height="30" >  <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/js.png" width="30" height="30">  <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/python.png" width="30" height="30" >  <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/django.png" width="30" height="30" >  <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database.png" width="30" height="30" >
+  <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database-storage.png" width="30" height="30" >
+ 
 ## Learning ##
  - [ ] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/physics.png" width="30" height="30" >
  - [ ] <img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/Expressjs.png" width="30" height="30" >
