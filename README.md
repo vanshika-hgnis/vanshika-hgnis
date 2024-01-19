@@ -7,7 +7,8 @@ I'm an undergraduate student at Vellore Institute of Technology and a 20-year-ol
 * 🥅 Future Goals: Learn more about web 3.0 + Creating APIs
 
 _Connect With Me_ 
-<a href="URL_REDIRECT" target="https://www.linkedin.com/in/vanshika-singh-2680b0267/">
+<a href="https://www.linkedin.com/in/vanshika-singh-2680b0267/" target="blank">
+<img src= "https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/linkedin.png" width="40" height="40" />
 </a>
 
 ## Languages and Tools ##
