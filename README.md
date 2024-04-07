@@ -1,8 +1,8 @@
 # Hi , I am Vanshika 👋 #
 
 I'm an undergraduate student at Vellore Institute of Technology and a 20-year-old full-stack Web Developer!
-* 🌱 I’m currently learning Typescript , MERN and ML.
-* 👨‍💻 Developing Websites and Learning ML
+* 🌱 I’m currently learning Typescript , MERN.
+* 👨‍💻 Developing Websites.
 * 👯 I’m looking to build more projects (Any suggestions are great!)
 * 🥅 Future Goals: Learn more about web 3.0 + Creating APIs
 
