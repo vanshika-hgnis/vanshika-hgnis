@@ -3,8 +3,8 @@
 
 I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore Institute of Technology , Vellore. I am a developer skilled in C++, Java, Python, Full Stack Development, Machine learning, Nexjts, Typescript. I am also a writer.
 
-* 🌱 I’m currently learning BlockChain,Rust.
-* 👨‍💻 Developing Websites,AI Agents.
+* 🌱 I’m currently learning Golang.
+* 👨‍💻 Developing Websites, RAG Chatbots.
 * 👯 I’m looking to build more projects (Any suggestions are great!)
 * 🥅 Future Goals: Learn more about web 3.0 + LLMS
 
