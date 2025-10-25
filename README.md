@@ -10,8 +10,7 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/vanshika-singh-2680b0267/) 
 - [Portfolio](https://vanshikadev.notion.site/Vanshika-Singh-27353fa5a1bd801d8eaaf20f56e22c13)
-- [Medium](https://medium.com/@vanshikas2018) for more written content.
-
+- [Medium](https://medium.com/@vanshikas2018).
 
 ## Programming Languages and Tools ##
 <img src="https://github.com/user-attachments/assets/eaf24083-671c-48e1-8fb9-afba0fe86686" width="40" height="40"></img>&nbsp;<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/django.png" width="40" height="40" >&nbsp;<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database.png" width="40" height="40" > &nbsp;
