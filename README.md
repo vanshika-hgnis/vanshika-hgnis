@@ -1,7 +1,7 @@
 # Hi , I am Vanshika 
 
 
-I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore Institute of Technology , Vellore. I am a developer skilled in C++, Java, Python, Full Stack Development, Machine learning, Nexjts, Typescript. I am also a writer.
+I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore Institute of Technology , Vellore. I am a developer skilled in Python, Full Stack Development(Nextjs/Reactjs), Machine learning. I share my interests by writing on Medium.
 
 * Developing Websites, RAG Chatbots.
 * Future Goals: Learn more about Distributed Systems and AI.
