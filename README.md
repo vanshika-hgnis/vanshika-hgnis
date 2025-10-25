@@ -31,9 +31,6 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
  <a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshika-hgnis&theme=dark&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
   
 
----
-![Vanshika's Trophy](https://github-profile-trophy.vercel.app/?username=vanshika-hgnis&theme=dark&column=4&no-frame=true)
----
 
 
 ---
