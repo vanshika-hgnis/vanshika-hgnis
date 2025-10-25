@@ -32,13 +32,3 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
   
 
 
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika-hgnis&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vanshika-hgnis&theme=dark&hide_border=true" width="400">
-</p>
-
----
-
