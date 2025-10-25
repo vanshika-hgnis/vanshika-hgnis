@@ -23,11 +23,6 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
         <img src="https://github.com/user-attachments/assets/6ace185e-1aad-4a85-acdd-65aea2f13ddf" width="40" height="40" >&nbsp;
 
 
-## :computer: Technologies I Love
-* Typescript
-* Machine Learning
-* Blockchain
-* Frontend and Backend Web Development
 
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
