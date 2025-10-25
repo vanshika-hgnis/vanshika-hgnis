@@ -1,18 +1,16 @@
-# Hi , I am Vanshika  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> #
+# Hi , I am Vanshika 
 
 
 I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore Institute of Technology , Vellore. I am a developer skilled in C++, Java, Python, Full Stack Development, Machine learning, Nexjts, Typescript. I am also a writer.
 
-* 🌱 I’m currently learning Golang.
-* 👨‍💻 Developing Websites, RAG Chatbots.
-* 👯 I’m looking to build more projects (Any suggestions are great!)
-* 🥅 Future Goals: Learn more about web 3.0 + LLMS
+* Developing Websites, RAG Chatbots.
+* Future Goals: Learn more about Distributed Systems and AI.
 
 
-### 📫 How to reach me?
+### Socials
 - [LinkedIn](https://www.linkedin.com/in/vanshika-singh-2680b0267/) 
-- 🌐 Visit my [portfolio website](https://www.linkedin.com/in/vanshika-singh-2680b0267/) for more information and to get in touch.
-- ✍️ Follow me on [Medium](https://medium.com/@vanshikas2018) for more written content.
+- [Portfolio](https://vanshikadev.notion.site/Vanshika-Singh-27353fa5a1bd801d8eaaf20f56e22c13)
+- [Medium](https://medium.com/@vanshikas2018) for more written content.
 
 
 ## Programming Languages and Tools ##
