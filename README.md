@@ -9,7 +9,7 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/vanshika-singh-2680b0267/) 
-- [Portfolio](https://vanshikadev.notion.site/Vanshika-Singh-27353fa5a1bd801d8eaaf20f56e22c13)
+- [Portfolio](https://portfolio-website-six-orpin-83.vercel.app/)
 - [Medium](https://medium.com/@vanshikas2018).
 
 ## Programming Languages and Tools ##
