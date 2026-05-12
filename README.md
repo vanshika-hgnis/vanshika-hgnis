@@ -13,13 +13,8 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
 - [Medium](https://medium.com/@vanshikas2018).
 
 ## Programming Languages and Tools ##
-<img src="https://github.com/user-attachments/assets/eaf24083-671c-48e1-8fb9-afba0fe86686" width="40" height="40"></img>&nbsp;<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/django.png" width="40" height="40" >&nbsp;<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database.png" width="40" height="40" > &nbsp;
-<img src="https://github.com/user-attachments/assets/bb8f826c-9d95-4c21-aeb9-84ba64e295a9" width="40" height="40" >
-  &nbsp;<img src="https://github.com/vanshika-hgnis/vanshika-hgnis/blob/main/database-storage.png" width="40" height="40" >&nbsp;
-  <img src="https://github.com/user-attachments/assets/d8049605-d7a6-4192-9790-844da5e929cd" width="40" height="40" >&nbsp;
-    <img src="https://github.com/user-attachments/assets/c8ac4657-08c7-430d-883a-a4b2e14cd7b7" width="40" height="40" >&nbsp;
-     <img src="https://github.com/user-attachments/assets/d6275a62-3170-40ba-bcbe-d79899c9255c" width="40" height="40" >&nbsp;
-        <img src="https://github.com/user-attachments/assets/6ace185e-1aad-4a85-acdd-65aea2f13ddf" width="40" height="40" >&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-hgnis)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
