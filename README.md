@@ -14,7 +14,7 @@ I am _Vanshika Singh_. I am a student studing Software Engineering at _Vellore I
 
 ## Programming Languages and Tools ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-hgnis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-hgnis)](https://github.com/vanshika-hgnis/github-readme-stats)
 
 
 
