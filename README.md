@@ -4,17 +4,6 @@ Vanshika Singh
 
 </div>
 
----
-
-<!-- ABOUT -->
-
-### 🌿 About Me
-- 🎓 M.Tech Software Engineering — VIT Vellore
-- 🔨 Building RAG Chatbots, Full-stack apps, ML pipelines
-- ☁️ Learning AWS, Gen AI, Distributed Systems
-<br clear="right"/>
-
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-singh-2680b0267/)
